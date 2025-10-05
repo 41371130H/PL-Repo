@@ -12,6 +12,6 @@
 此作業由於Gradio的時間限制 or Gemini API的問題，成功跑出結果的僅有無Gradio的版本，敬請見諒
 
 [HW2_日常支出速算與分攤+AI回饋(Gradio超時)](https://github.com/41371130H/PL-Repo/blob/main/HW2_%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4%2BAI%E5%9B%9E%E9%A5%8B(Gradio%E8%B6%85%E6%99%82).ipynb)<br>
-由於Gradio的時間限制 or Gemini API的問題，此為超時的Gradio的版本，敬請見諒
+由於Gradio的時間限制 or Gemini API的問題，此為超時失敗的Gradio的版本，敬請見諒
 
 ## 專題連結區
