@@ -18,4 +18,6 @@
 
 [HW2_日常支出速算與分攤+AI回饋 (有Gradio版)](https://github.com/41371130H/PL-Repo/blob/main/HW2_%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4%2BAI%E5%9B%9E%E9%A5%8B_(%E6%9C%89Gradio%E7%89%88).ipynb)
 
+[HW3_待辦清單與番茄鐘紀錄](https://github.com/41371130H/PL-Repo/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
+
 ## 專題連結區
