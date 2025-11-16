@@ -17,6 +17,8 @@
 
 [HW4_文字資料小分析](https://github.com/41371130H/PL-Repo/blob/main/HW4_%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99%E5%B0%8F%E5%88%86%E6%9E%90.ipynb)
 
+[HW5_午餐聚會決策器](https://github.com/41371130H/PL-Repo/blob/main/HW5_%E5%8D%88%E9%A4%90%E8%81%9A%E6%9C%83%E6%B1%BA%E7%AD%96%E5%99%A8.ipynb)
+
 ## 專題連結區
 
 ## 作業歷程區
