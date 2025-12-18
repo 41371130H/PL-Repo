@@ -26,7 +26,7 @@
 
 [專題影片連結(待續)](https://youtu.be/GgKO8wclxn4)
 
-[專題程式碼](https://github.com/41371130H/PL-Repo/blob/main/AI_%E6%99%BA%E8%83%BD%E5%81%A5%E8%BA%AB%E6%95%99%E7%B7%B4.ipynb)
+[專題程式碼](https://github.com/41371130H/PL-Repo/blob/main/%E3%80%90%E6%88%80%E6%84%9B%E5%A5%91%E7%B4%84%E3%80%91%E9%9C%B8%E9%81%93%E7%B8%BD%E8%A3%81%E7%9A%84%E7%A7%81%E4%BA%BA%E7%89%B9%E8%A8%93.ipynb)
 
 
 ## 作業歷程區
